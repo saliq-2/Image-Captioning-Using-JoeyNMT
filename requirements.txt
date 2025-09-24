@@ -1,0 +1,10 @@
+numpy
+torch
+torchvision
+Pillow
+matplotlib
+nltk
+rouge-score
+joeynmt
+ipython
+importlib-metadata
