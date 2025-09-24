@@ -1,4 +1,4 @@
-# Image-Captioning-Using-JoeyNMT
+# Image Captioning Using JoeyNMT
 
 
 
