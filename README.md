@@ -4,19 +4,13 @@
 
 
 
-###**Demo**
-
-
+**Demo**
 
 
 
 
 
 <img width="552" height="408" alt="vgg_16_output" src="https://github.com/user-attachments/assets/b2a5bc36-6afb-485d-9ad5-fab850e8f429" />
-
-
-
-
 
 
 
