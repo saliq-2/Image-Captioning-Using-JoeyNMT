@@ -59,3 +59,8 @@ Notes
 **Dataset**
 
 The dataset can be downloaded fromt this link https://drive.google.com/drive/folders/1gq4UYvMirkTag4BsdkdoPrahJMe0rW8T?usp=sharing
+
+
+**Additionaly**
+
+We have also implemented the show,attend and tell paper by integrating it with joeyNMT.
