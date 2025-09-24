@@ -55,3 +55,7 @@ python predict.py /abs/path/to/image.jpg "/abs/path/to/checkpoint.pth" --max_len
 Notes
 - Wrap paths with spaces in quotes.
 - GPU is used automatically if available.
+
+**Dataset**
+
+The dataset can be downloaded fromt this link https://drive.google.com/drive/folders/1gq4UYvMirkTag4BsdkdoPrahJMe0rW8T?usp=sharing
